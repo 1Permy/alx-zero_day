@@ -1,2 +1,1 @@
-my zero day
-Almost done
+my zero day almost done
